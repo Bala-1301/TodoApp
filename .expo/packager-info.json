@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 4280,
+  "expoServerNgrokUrl": "https://ui-d4f.bala-1301.todoapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.ui-d4f.bala-1301.todoapp.exp.direct",
+  "ngrokPid": 5560,
+  "webpackServerPort": null
+}
